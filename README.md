@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hello, I'm Abhishek Dubey!
 
-<!--
-**ABHIDUBEY04/ABHIDUBEY04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps Engineer | Cloud Consultant
 
-Here are some ideas to get you started:
+I'm a passionate **DevOps Engineer & Consultant** with hands-on experience in building and managing scalable cloud-native infrastructure using modern DevOps tools and practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 My Toolbox
+
+- ☁️ **Cloud**: Azure, Nokia NCP (Pvt Cloud)
+- 🏗️ **Infrastructure as Code**: Terraform
+- 🔄 **CI/CD**: GitHub Actions, Azure Pipelines
+- 🐳 **Containerization**: Docker
+- ☸️ **Orchestration**: Kubernetes
+- 🐧 **Scripting & OS**: Bash, Linux
+- 🛠️ **Monitoring**: Prometheus, Grafana, Azure Monitor
+- 🗃️ **Database**: SQL
+
+---
+
+## 🌱 Currently Exploring
+
+- 🔐 Azure Security & Governance  
+- 📦 Helm Charts & GitOps  
+- 📊 Advanced Observability Tools  
+
+---
+
+## 📊 GitHub Stats
+
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekdubey-dev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdubey-dev&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhishek-dubey04/)  
+[![Email](https://img.shields.io/badge/-abhishekdubey102030@gmail.com-grey?style=flat&logo=gmail)](mailto:abhishekdubey102030@gmail.com)
+
+---
+
+_Thanks for stopping by! If you're into DevOps, Cloud, or Automation — let's collaborate!_ 🚀
