@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Abhishek Dubey</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%F0%9F%9A%80;Multi-Cloud+Consultant+%E2%98%81%EF%B8%8F;Terraform+%7C+Docker+%7C+Kubernetes;Python+Automation+%F0%9F%90%8D;Backup+%26+Monitoring+%7C+Troubleshooting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=650&lines=DevOps+Consultant+%7C+10%2B+Years+Experience+%F0%9F%9A%80;Multi-Cloud+%E2%98%81%EF%B8%8F+Terraform+%7C+Docker+%7C+Kubernetes;Python+Automation+%F0%9F%90%8D;Backup+%26+Monitoring+%7C+Troubleshooting" />
 </p>
 
 <p align="center">
@@ -10,6 +10,9 @@
 </p>
 
 ---
+
+## 🧑‍💼 About Me
+**DevOps Consultant with 10+ years of experience** designing, automating and supporting cloud infrastructure for enterprise environments across **Azure, AWS & GCP**.
 
 ## ⚡ What I Do
 - 🏗️ **Infrastructure as Code:** Provisioning and managing infra with **Terraform**
